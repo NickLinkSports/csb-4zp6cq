@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://nicklinksports.github.io/csb-4zp6cq/static/js/main.4e906573.chunk.js",
+    "main.js.map": "https://nicklinksports.github.io/csb-4zp6cq/static/js/main.4e906573.chunk.js.map",
+    "runtime-main.js": "https://nicklinksports.github.io/csb-4zp6cq/static/js/runtime-main.a82898d2.js",
+    "runtime-main.js.map": "https://nicklinksports.github.io/csb-4zp6cq/static/js/runtime-main.a82898d2.js.map",
+    "static/js/2.43f751c5.chunk.js": "https://nicklinksports.github.io/csb-4zp6cq/static/js/2.43f751c5.chunk.js",
+    "static/js/2.43f751c5.chunk.js.map": "https://nicklinksports.github.io/csb-4zp6cq/static/js/2.43f751c5.chunk.js.map",
+    "index.html": "https://nicklinksports.github.io/csb-4zp6cq/index.html",
+    "precache-manifest.c740b82329ec372df971b27a55d8c475.js": "https://nicklinksports.github.io/csb-4zp6cq/precache-manifest.c740b82329ec372df971b27a55d8c475.js",
+    "service-worker.js": "https://nicklinksports.github.io/csb-4zp6cq/service-worker.js",
+    "static/js/2.43f751c5.chunk.js.LICENSE.txt": "https://nicklinksports.github.io/csb-4zp6cq/static/js/2.43f751c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a82898d2.js",
+    "static/js/2.43f751c5.chunk.js",
+    "static/js/main.4e906573.chunk.js"
+  ]
+}
